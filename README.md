@@ -1,6 +1,7 @@
 # Exercise 1 (Jupyter Setup)
 ## Install Python:
 Python from the official website: https://www.python.org/downloads/
+<img src="C:\Users\Dell\Downloads\assignment_1\Python version.png">
 ##  Install pip:
 To ensure that I have pip (Python package manager) installed I had to check by running **(pip --version)** in my command prompt or terminal.
 ## Install pipenv:
