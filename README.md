@@ -15,9 +15,9 @@ I've installed pipenv using the following command `pip install pipenv` and to ch
 I've installed the Jupyter Notebook with the following command `pip install notebook`
 
 ## Installation of Libraries:
-Installed the libraries that I need for data engineering and analysis, including Pandas for data manipulation, and visualization libraries like **Matplotlib, Plotly, Nbval, etc.**: `pip install nbQA nbval matplotlib plotly numpy pandas`
+Installed the libraries that I need for data engineering and analysis, including Pandas for data manipulation, and visualization libraries like **Matplotlib, Plotly, Nbval, etc. with the following command**: `pip install nbQA nbval matplotlib plotly numpy pandas`
 
-### Flowing commands for checking and results-
+### Following commands for confirming installation and results-
 
 #### nbQA: On the command prompt
 `nbqa --version` Result: `nbqa 1.7.0`
